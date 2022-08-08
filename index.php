@@ -14,7 +14,7 @@
       <span class="score">0</span>
    </div>
    <img draggable="false" src="1.png">
-   <img display="none" draggable="false" src="2.png">
+   <img style="display:none;" draggable="false" src="2.png">
 </div>
 
 <script type="text/javascript" src="./script.js"></script>
