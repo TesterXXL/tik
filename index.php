@@ -11,7 +11,7 @@
 <div class="div">
    <div class="sc">
       <span>Score: </span>
-      <span class="score"></span>
+      <span class="score">0</span>
    </div>
    <img draggable="false" src="1.png">
 </div>
